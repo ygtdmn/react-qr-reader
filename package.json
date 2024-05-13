@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/react-qr-reader/react-qr-reader#readme",
   "peerDependencies": {
-    "react": ">=16.8.0"
+    "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
   },
   "dependencies": {
